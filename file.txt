@@ -1,0 +1,1 @@
+Wow I spend the file all by myself from the terminal with "open file.txt" and now I am going to save it to git
